@@ -1,0 +1,14 @@
+.login{
+  background-color: #4c50aa;
+  color: white;
+}
+.otherBtn:hover{
+  background-color: #4c50aa;
+  color:white
+}
+@media screen and  (max-width:540px){
+  .contact-div{
+    display:flex;
+    flex-direction: column;
+  }
+}
